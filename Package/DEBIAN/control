@@ -1,10 +1,9 @@
 Package: net.winneonsword.package
-Name: Test Package
+Name: Theme in progress
 Version: 1.0
 Architecture: iphoneos-arm
-Description: This is a test package from /u/WinneonSword's tutorial repository!
-Depiction: http://repo.winneonsword.net/packages/package.html
+Description: Theme in progressDepiction: http://repo.winneonsword.net/packages/package.html
 Homepage: http://repo.winneonsword.net
-Maintainer: Jesse Bryan <winneonsword@gmail.com>
-Author: Jesse Bryan <winneonsword@gmail.com>
+Maintainer: velvetmafia <georgebaker10@icloud.com>
+Author: velvetmafia <georgebaker10@icloud.com>
 Section: Themes
