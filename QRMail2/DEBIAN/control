@@ -1,9 +1,8 @@
 Package: com.yourcompany.qrmail
-Name: qrmail
+Name: QRMail 2
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Zac Gorak
-Author: Zac Gorak
+Description: Quick Reply for email. Support for iOS 9
+Maintainer: velvetmafiaAuthor: Zac Gorak
 Section: Tweaks
